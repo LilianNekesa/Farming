@@ -1,0 +1,36 @@
+
+
+body{
+    background-color:burlywood;
+    font-family:'Times New Roman';
+    
+}
+
+image{
+    border-left-width: 0cap;
+    max-height: max-content;
+}
+
+p{
+    font-size: larger;
+    font-style: normal;
+    color: black;
+  
+}
+hr{
+    background-color: black;
+}
+h2{
+    background-color: olivedrab;
+
+}
+
+test{
+    background-color: aquamarine;
+    text-emphasis-color: pink;
+}
+
+hr{
+    background-color: black;
+}
+

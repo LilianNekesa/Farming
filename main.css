@@ -1,54 +1,83 @@
-
-
 body{
-    background-color:burlywood;
-    font-family:'Times New Roman';
-    
-}
-
-image{
-    border-left-width: 0cap;
-    max-height: max-content;
-}
-
-p{
-    font-size: larger;
-    font-style: normal;
-    color: black;
-  
-}
-hr{
-    background-color: black;
-}
-h2{
-    background-color: olivedrab;
-
-}
-
-test{
-    background-color: aquamarine;
-    text-emphasis-color: pink;
-}
-
-hr{
-    background-color: black;
-}
-
-my website{
-    background-color: blueviolet;
-
-
-} 
-
-p{
-font-size: larger;
-font-style: normal;
-;
-}
-
-ul{
-    font-size: larger;
+    background-color: lightgray;
     color: blue;
 }
 
+h1{
+    background-color: black;
+    color: white;
+}
 
+h2{
+    color: royalblue;
+}
+p{
+    color: black;
+    font-size: 20px;
+    font-family: times;
+
+}
+li{
+    color: blueviolet;
+    font-size: 20px;
+}
+
+div{
+
+    body{
+        background-color: beige;
+        color:blue
+    }
+    h1{
+background-color: peru;
+color: blue;
+    }
+    h2{
+        color: blue;
+    }
+    p{
+        color: black;
+        font-size: 20px;
+        font-family: times;
+    }
+    li{
+        color: blue;
+        font-size: 20px;
+        font-family: times;
+        
+    }
+    
+
+}
+div-1{
+    h1{
+        background-color: wheat;
+        color: black;
+    }
+    body{
+        background-color: azure;
+    }
+}
+
+div-2{
+    h1{
+        color: white;
+        background-color: black;
+    }
+    h2{
+        color: blue;
+    }
+    h3{
+        color: brown;
+    }
+    body{}
+    p{
+        color: black;
+        font-size: 20px;
+        font-family: times;
+    }
+    li{
+        color: slateblue;
+
+    }
+}
